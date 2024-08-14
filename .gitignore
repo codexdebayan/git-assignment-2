@@ -1,0 +1,11 @@
+# all files under the build directory
+/build
+
+# all files ending with .env
+*.env
+
+# all files under the test-runs/log
+/test-runs/log/
+
+# all csv files present in the repository
+*.csv
